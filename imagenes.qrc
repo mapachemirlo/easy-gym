@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="imagenes">
+    <file>logo_orbis.jpg</file>
+    <file>logo_procyon.jpg</file>
+    <file>letra_procyon.png</file>
+  </qresource>
+</RCC>
